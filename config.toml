@@ -1,0 +1,8 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Verilux Press'
+theme = 'verilux'
+
+[params]
+mission = 'Illuminating scholarship with clarity.'
+standard = 'We craft enduring scholarly works with fine-press attention.'

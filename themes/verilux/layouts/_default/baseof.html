@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+  {{ block "header" . }}
+  <header class="site-header">
+    <h1 class="site-title">{{ .Site.Title }}</h1>
+  </header>
+  {{ end }}
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer class="site-footer">
+    <p>&copy; {{ now.Format "2006" }} {{ .Site.Title }}</p>
+  </footer>
+</body>
+</html>
