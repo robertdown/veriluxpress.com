@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Verilux Press</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Verilux Press</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2025, Verilux Press. All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verilux Press Launches, Dedicated to Enduring Scholarship and Design</title>
+      <link>http://localhost:1313/news/verilux-press-announced/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/verilux-press-announced/</guid>
+      <description>&lt;p&gt;Verilux Press, an independent academic imprint, today announced its establishment, dedicated to scholarly publishing in service of enduring thought. The imprint unites typographic refinement, rigorous editorial standards and a commitment to intellectual integrity, grounded in the belief that works of consequence should be preserved in forms of lasting beauty. Verilux Press enters the academic landscape at a time when the durability of knowledge is often overshadowed by the speed of information. The press’s guiding philosophy is that scholarship flourishes when preserved in carefully considered editions — works designed not only to inform but to endure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about-us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about-us/</guid>
+      <description>&lt;p&gt;Verilux Press is a scholarly publisher dedicated to producing works of lasting intellectual and material value. Founded with a commitment to classical typographic traditions and meticulous editorial standards, Verilux Press unites fidelity to authoritative texts with a design ethos rooted in elegance and restraint. Its catalog will span law, philosophy, theology and the humanities, offering editions crafted to serve both practitioners and scholars who value accuracy, clarity and permanence.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mission&#34;&gt;Mission&lt;/h2&gt;&#xA;&lt;p&gt;The mission&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Federal Rules of Civil Procedure</title>
+      <link>http://localhost:1313/books/federal-rules-of-civil-procedures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/federal-rules-of-civil-procedures/</guid>
+      <description>&lt;p&gt;A practical modern approach to civil procedure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Federal Rules of Evidence</title>
+      <link>http://localhost:1313/books/federal-rules-of-evidence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/federal-rules-of-evidence/</guid>
+      <description>&lt;p&gt;An authoritative, annotated edition of the Federal Rules of Evidence.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Federal Rules Series</title>
+      <link>http://localhost:1313/series/federal-rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/series/federal-rules/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New Treatise on Administrative Procedure</title>
+      <link>http://localhost:1313/books/admin-proc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/admin-proc/</guid>
+      <description>&lt;p&gt;Detailed treatment of administrative procedure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Verilux Press Legal Reference Library</title>
+      <link>http://localhost:1313/library/legal-reference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/library/legal-reference/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

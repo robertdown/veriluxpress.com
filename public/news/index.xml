@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Verilux Press</title>
+    <link>http://localhost:1313/news/</link>
+    <description>Recent content in News on Verilux Press</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2025, Verilux Press. All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verilux Press Launches, Dedicated to Enduring Scholarship and Design</title>
+      <link>http://localhost:1313/news/verilux-press-announced/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/verilux-press-announced/</guid>
+      <description>&lt;p&gt;Verilux Press, an independent academic imprint, today announced its establishment, dedicated to scholarly publishing in service of enduring thought. The imprint unites typographic refinement, rigorous editorial standards and a commitment to intellectual integrity, grounded in the belief that works of consequence should be preserved in forms of lasting beauty. Verilux Press enters the academic landscape at a time when the durability of knowledge is often overshadowed by the speed of information. The press’s guiding philosophy is that scholarship flourishes when preserved in carefully considered editions — works designed not only to inform but to endure.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
