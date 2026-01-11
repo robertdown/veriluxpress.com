@@ -1,0 +1,118 @@
+baseURL: "http://localhost:1313/"
+languageCode: "en-us"
+title: "Verilux Press"
+theme: github.com/robertdown/vlux-web-theme
+copyright: "&copy; 2025, Verilux Press. All Rights Reserved."
+
+menu:
+  main:
+    - name: "Books"
+      identifier: books
+      url: "/books/"
+      weight: 10
+      params:
+        aria: "Books"
+
+    - name: "New Releases"
+      identifier: new
+      url: "/books/new/"
+      parent: books
+      weight: 11
+
+    - name: "Bestsellers"
+      identifier: bestsellers
+      url: "/books/bestsellers/"
+      parent: books
+      weight: 12
+
+    - name: "Coming Soon"
+      identifier: coming-soon
+      url: "/books/coming-soon/"
+      parent: books
+      weight: 13
+
+    - name: "Series"
+      identifier: series
+      url: "/series/"
+      weight: 20
+
+    - name: "News"
+      identifier: news
+      url: "/news/"
+      weight: 40
+
+    - name: "About"
+      identifier: about
+      url: "/about-us/"
+      weight: 50
+  
+  footer:
+    - name: "Books"
+      identifier: books
+      url: "/books/"
+      weight: 10
+      params:
+        aria: "Books"
+
+    - name: "New Releases"
+      identifier: new
+      url: "/books/new/"
+      parent: books
+      weight: 11
+
+    - name: "Bestsellers"
+      identifier: bestsellers
+      url: "/books/bestsellers/"
+      parent: books
+      weight: 12
+
+    - name: "Coming Soon"
+      identifier: coming-soon
+      url: "/books/coming-soon/"
+      parent: books
+      weight: 13
+
+    - name: "Series"
+      identifier: series
+      url: "/series/"
+      weight: 20
+
+    - name: "News"
+      identifier: news
+      url: "/news/"
+      weight: 40
+
+    - name: "About"
+      identifier: about
+      url: "/about-us/"
+      weight: 50
+
+taxonomies:
+  library: library
+  series: series
+
+params:
+  logo:
+    src: "images/logo.svg"
+    src_dark: "images/logo-dark.svg"
+    height: 90
+  csp:
+    script:
+      - 'unsafe-inline'
+      - https://use.typekit.net
+      - https://p.typekit.net
+      - https://fonts.googleapis.com
+    font:
+      - https://p.typekit.net
+      - https://use.typekit.net
+      - https://fonts.gstatic.com
+  options:
+    bootStrapJs: true
+    breadCrumb: true
+    listCategoryFilter: true
+    listTagFilter: true
+
+
+module:
+  imports:
+    - path: "github.com/robertdown/vlux-web-theme"  # your fork's module path

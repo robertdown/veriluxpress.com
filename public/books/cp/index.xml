@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Civil Procedure: A Modern Approach on Verilux Press</title>
+    <link>http://localhost:1313/books/cp/</link>
+    <description>Recent content in Civil Procedure: A Modern Approach on Verilux Press</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2025, Verilux Press. All Rights Reserved.</copyright>
+    <atom:link href="http://localhost:1313/books/cp/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
